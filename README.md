@@ -1,1 +1,5 @@
-# hearc-robotique
+# Robotique HE-Arc - 2024/2025
+
+**Cours** : Robotique  
+**Année académique** : 2024-2025  
+**Institution** : HE-Arc Ingénierie, Neuchâtel  
